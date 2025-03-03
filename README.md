@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="Wave" width="25px" />
   <h1>Hi there, nice to meet you!</h1>
-  <p>I'm Noah, a full stack engineer from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/nl.png" alt="The Netherlands"> Holland.<br />
-    Owner of :desktop_computer: <a href="https://www.noahpijpers.nl" title="Noah Pijpers Development" target="_blank">Noah Pijpers Development</a> and software engineer at :office: <a href="https://www.frankemedia.nl/" title="Franke Media" target="_blank" rel="nofollow">Franke Media</a><br /><br />
+  <p>I'm Noah, a Full-Stack Engineer from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/nl.png" alt="The Netherlands"> Holland.<br />
+    Owner of :desktop_computer: <a href="https://www.noahpijpers.nl" title="Noah Pijpers Development" target="_blank">Noah Pijpers Development</a> and Software Engineer at :office: <a href="https://www.frankemedia.nl/" title="Franke Media" target="_blank" rel="nofollow">Franke Media</a><br /><br />
   Currently I'm working on some awesome client (and personal!) projects, but you can always reach out by contacting me:<br /><br />
   <a href="mailto:info@noahpijpers.nl" title="Contact me"><img src="https://img.shields.io/badge/Contact%20me!-20B2AA?style=for-the-badge&logo=minutemailer&logoColor=ffffff"></a><br /><br /></p>
 </div>
